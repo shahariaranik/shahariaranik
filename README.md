@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shahariar Anik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099](https://tenor.com/bN65M.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariaranik&label=Profile%20views&color=0e75b6&style=flat" alt="shahariaranik" /> </p>
 
