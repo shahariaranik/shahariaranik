@@ -1,4 +1,4 @@
-![Alt Text](./LinkedIn%20Cover%207.png)
+![Alt Text](./LinkedIn%20Cover%207.jpg)
 # 💫 About Me:
 🔭 I’m currently working on Psycure App<br>👯 I’m looking to collaborate on Data Science Project<br>🌱 I’m currently learning Data Science and ML<br>💬 Ask me about Product Management
 
