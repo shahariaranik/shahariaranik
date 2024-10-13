@@ -53,8 +53,3 @@
 </p>
 
 <br>
-
-<!-- Footer -->
-<p align="center">
-  <i>Crafted with passion using GitHub Profile README Generator</i>  
-</p>
