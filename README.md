@@ -4,7 +4,6 @@
 </p>
 
 # 💫 About Me:
-- 🔭 Currently working on **Psycure App**
 - 🤝 Looking to collaborate on **Data Science Projects**
 - 🌱 Learning **Data Science & Machine Learning**
 - 💬 Ask me about **Product Management**
