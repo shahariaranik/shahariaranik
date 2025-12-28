@@ -37,29 +37,6 @@
 
 <br>
 
-## 📹 Featured Videos
-
-Explore my latest videos on LinkedIn and Facebook! These showcase my insights in AI, ML, and product management.
-
-### 💼 LinkedIn Videos
-
-- **[AI Project Showcase](https://www.linkedin.com/posts/shahariaranik/YOUR_LINKEDIN_VIDEO_ID_1)**  
-  _Dive into this exciting AI project demo!_
-
-- **[ML Learning Tips](https://www.linkedin.com/posts/shahariaranik/YOUR_LINKEDIN_VIDEO_ID_2)**  
-  _Tips and tricks from my ML journey._
-
-### 📘 Facebook Videos
-
-- \*_[Product Management Discussion](https://www.facebook.com/share/v/1AGMYdMeSF/_
-
-- **[Tech Collaboration](https://www.facebook.com/YOUR_FACEBOOK_VIDEO_ID_2)**  
-  _Collaborative tech projects explained._
-
-_Replace the placeholders with your actual video links to make them live!_
-
-<br>
-
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariaranik&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
