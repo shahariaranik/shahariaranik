@@ -3,7 +3,7 @@
   <img src="./LinkedIn%20Cover%207.png" alt="LinkedIn Cover" width="100%" />
 </p>
 
-# 💫 About Me:
+# 💫 About Me: <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariaranik&label=Profile%20views&color=0e75b6&style=flat" alt="shahariaranik" /> </p>
 
 - 🤝 Looking to collaborate on **AI&ML Projects**
 - 🌱 Learning **AI & Machine Learning**
@@ -36,8 +36,6 @@
 ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariaranik&label=Profile%20views&color=0e75b6&style=flat" alt="shahariaranik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahariaranik" alt="shahariaranik" /></a> </p>
 
