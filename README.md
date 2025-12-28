@@ -37,18 +37,7 @@
 
 <br>
 
-## 🔗 Featured Videos & Links
-
-Dive into my latest content! Check out these engaging videos showcasing my work in AI, ML, and product management. Each video includes live stats for views, likes, and comments.
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7268257351860707328?collapsed=1" height="877" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-- **[ML Learning Journey](https://www.linkedin.com/posts/shahariaranik/YOUR_POST_ID_2)**  
-  _Share your thoughts in the comments!_
-
-_Replace `YOUR_VIDEO_ID` and `YOUR_POST_ID` with actual IDs to display real-time stats and links._
-
-<br>
+# 📊 GitHub Stats:
 
 <!-- Streak Stats Full Screen Width -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariaranik&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
