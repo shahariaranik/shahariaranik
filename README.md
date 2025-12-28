@@ -37,9 +37,14 @@
 
 <br>
 
-# 📊 GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariaranik&label=Profile%20views&color=0e75b6&style=flat" alt="shahariaranik" /> </p>
 
-<!-- Streak Stats Full Screen Width -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariaranik&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahariaranik" alt="shahariaranik" /></a> </p>
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahariaranik&show_icons=true&locale=en" alt="shahariaranik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariaranik&" alt="shahariaranik" /></p>
