@@ -40,13 +40,7 @@
 
 # 📊 GitHub Stats:
 
-<!-- GitHub Stats Full Screen Width -->
-<img src="https://github-readme-stats.vercel.app/api?username=shahariaranik&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="100%" alt="GitHub Stats" />
-
 <!-- Streak Stats Full Screen Width -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahariaranik&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-
-<!-- Top Languages Compact Layout Full Width -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariaranik&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages" />
 
 <br>
