@@ -10,7 +10,7 @@
 - 💬 Ask me about **Product Management**
   <br>
 
-## 🌐 Connect with Me:
+🌐 Connect with Me:
 
 <a href="https://behance.net/shahariaranik" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
@@ -21,7 +21,7 @@
 
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,5 +36,6 @@
 ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br>
-#  🐛 github Stack:
+##🐛 github Stack:
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariaranik&" alt="shahariaranik" /></p>
